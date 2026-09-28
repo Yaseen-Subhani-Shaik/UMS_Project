@@ -9,5 +9,5 @@ python -m streamlit run app.py
 # Step-2 : In gitbash change to your project directory  : cd
 # Step-3 : Clone the repo
 
-# git clone URL_of_respository
+# git clone url_of_respository
 
