@@ -1,7 +1,9 @@
 # pip install streamlit
 
 streamlit run main.py
+
 or
+
 python -m streamlit run app.py
 
 # Uploading the Project on GITHUB
